@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Pii Marketers**
 
-- 🌱 I’m currently learning **API,React JS.**
+- 🌱 I’m currently learning **MERN.**
 
 - 👨‍💻 All of my projects are available at [https://webdevelopernazneen.xyz/](https://webdevelopernazneen.xyz/)
 
 - 💬 Ask me about **Website build, Custom website, E-commerce website**
 
-- 📫 How to reach me **lipinazneen65@gmail.com**
+- 📫 How to reach me **lipinazneen85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
