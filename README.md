@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
-<h3 align="center">A passionate frontend developer | Website designer</h3>
+<h3 align="center">A passionate frontend developer | React JS</h3>
 
-- 🔭 I’m currently working on **Pii Marketers**
+- 🔭 I’m currently working  **Pii Marketers**
 
-- 🌱 I’m currently learning **MERN.**
+- 🌱 I’m currently learning **Next js, redux, shadecn.**
 
-- 👨‍💻 All of my projects are available at [https://webdevelopernazneen.xyz/](https://webdevelopernazneen.xyz/)
+- 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
-- 💬 Ask me about **Website build, Custom website, E-commerce website**
+- 💬 Ask me about **Website build, Custom website, E-commerce website, React js website , Full stack website**
 
 - 📫 How to reach me **lipinazneen85@gmail.com**
 
