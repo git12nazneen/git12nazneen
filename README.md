@@ -19,7 +19,6 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-
 <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -36,8 +35,6 @@
 <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
 <code><img title="ShadeCN" height="25" src="https://avatars.githubusercontent.com/u/70966233?s=200&v=4"></code>
-
- 
 </p>
 <hr>
 
@@ -51,6 +48,8 @@
   </div>
 </p>
 <hr>
+<br>
+<br>
 <h2 align="center" >👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
