@@ -1,4 +1,5 @@
-[![Header](https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710060.jpg?t=st=1719870028~exp=1719873628~hmac=da98c2c9c2a243583122e5cbfefaebad5d07e0d92a182563a61713a4f3c5bbcb&w=740)](https://your-destination-url)
+[![Header](https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710060.jpg?t=st=1719870028~exp=1719873628~hmac=da98c2c9c2a243583122e5cbfefaebad5d07e0d92a182563a61713a4f3c5bbcb&w=740)](https://www.freepik.com/premium-ai-image/3d-casual-brunette-girl-working-laptop-sitting-window_190371934.htm#fromView=search&page=6&position=49&uuid=e687364a-6754-49fd-8140-0ecbcf27d5bf)
+
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
 <h3 align="center">A passionate frontend developer | React JS</h3>
