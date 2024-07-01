@@ -1,4 +1,4 @@
-[![Header](https://app.lottiefiles.com/animation/6f5039a6-42fe-42b1-8fed-ab2e892c2126 "Header")]
+[![Header](https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710060.jpg?t=st=1719870028~exp=1719873628~hmac=da98c2c9c2a243583122e5cbfefaebad5d07e0d92a182563a61713a4f3c5bbcb&w=740)](https://your-destination-url)
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
 <h3 align="center">A passionate frontend developer | React JS</h3>
