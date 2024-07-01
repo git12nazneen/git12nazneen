@@ -1,5 +1,4 @@
-[![Header](https://lottiefiles.com/animations/girl-working-on-computer-desk-fGogP5PKxT?from=search)]
-
+[![Header](https://lottiefiles.com/animation/girl-working-on-computer-desk-fGogP5PKxT "Header")]
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
 <h3 align="center">A passionate frontend developer | React JS</h3>
