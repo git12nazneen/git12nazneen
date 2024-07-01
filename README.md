@@ -39,14 +39,14 @@
 
 
 <p align=center>
-  <div align=center padding-bottom="100px">
+  <div align=center >
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=990 height="300" src="https://streak-stats.demolab.com?user=git12nazneen&theme=dark&hide_border=true&stroke=19A4EB&ring=15A9EB" alt="git12nazneen" />
     </a>
   
   </div>
 
-
+<p padding="50px"></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=git12nazneen&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
