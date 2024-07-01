@@ -1,5 +1,6 @@
-[![Header](https://img.freepik.com/free-vector/graphic-designer-isometric_98292-7041.jpg?t=st=1719870221~exp=1719873821~hmac=8a2917a57c3d8efe8b07b5802047fa845799367a8c315b8f3ba7ecaaff99d88e&w=740)](https://www.freepik.com/free-vector/graphic-designer-isometric_5358574.htm#fromView=search&page=1&position=26&uuid=e687364a-6754-49fd-8140-0ecbcf27d5bf)
-
+<a href="https://www.freepik.com/free-vector/graphic-designer-isometric_5358574.htm#fromView=search&page=1&position=26&uuid=e687364a-6754-49fd-8140-0ecbcf27d5bf" title="Graphic Designer Isometric">
+  <img src="https://img.freepik.com/free-vector/graphic-designer-isometric_98292-7041.jpg?t=st=1719870221~exp=1719873821~hmac=8a2917a57c3d8efe8b07b5802047fa845799367a8c315b8f3ba7ecaaff99d88e&w=740" alt="Header" height="200">
+</a>
 
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
