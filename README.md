@@ -35,11 +35,7 @@
 <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png"></code>
 <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
-<code><img title="Meraki UI" height="25" src="https://raw.githubusercontent.com/merakiui/merakiui/main/public/favicon.ico"></code>
 <code><img title="ShadeCN" height="25" src="https://avatars.githubusercontent.com/u/70966233?s=200&v=4"></code>
-<code><img title="Preline UI" height="25" src="https://preline.co/assets/favicon.png"></code>
-<code><img title="Mamba UI" height="25" src="https://mambaui.com/logo192.png"></code>
-<code><img title="Daisy UI" height="25" src="https://daisyui.com/icons/icon-192x192.png"></code>
 
  
 </p>
