@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://lottiefiles.com/animations/girl-working-on-computer-desk-fGogP5PKxT?from=search)
+[![Header](https://lottiefiles.com/animations/girl-working-on-computer-desk-fGogP5PKxT?from=search)]
 
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
