@@ -59,8 +59,14 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="left" href="https://github.com/git12nazneen/textile-art-craft" title="Textile Art Craft">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=git12nazneen&repo=textile-art-craft&theme=react&border_color=61dafb&border_radius=10">
+</a>
+
+<a align="right" href="https://github.com/git12nazneen/Real-estate" title="Real Estate">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=git12nazneen&repo=Real-estate&theme=react&border_color=61dafb&border_radius=10">
+</a>
+
 </div>
 <br/><br/><br/><br/><br/><br/>
 
