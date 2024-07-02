@@ -53,9 +53,10 @@
     </a>
   </div>
 </p>
+<br>
+<br>
 <hr>
-<br>
-<br>
+
 
 
 <h2 align="center" padding="50px" >👨‍💻 Repositories 👨‍💻</h2>
