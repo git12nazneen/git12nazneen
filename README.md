@@ -64,17 +64,14 @@
 <div width="100%" align="center">
 <a align="left" href="https://github.com/git12nazneen/Camp-aid" title="Camp-aid">
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=git12nazneen&repo=Camp-aid&theme=react&border_color=61dafb&border_radius=10">
-</a>
-
-
-<p align="left">
-  <strong>Technologies Used:</strong>
   <code><img title="JavaScript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img title="React.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img title="Node.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img title="Express.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
   <code><img title="MongoDB" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-</p>
+</a>
+
+
 
 
 <a align="right" href="https://github.com/git12nazneen/Nourish-hub" title="Hotel Booking Application">
