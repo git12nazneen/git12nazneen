@@ -1,6 +1,4 @@
 
-  <img src="https://www.canva.com/design/DAGJxs3GU7g/Yee6kF3awbipAHjFTY0kGg/edit?utm_content=DAGJxs3GU7g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Header">
-
 
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
