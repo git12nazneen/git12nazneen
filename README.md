@@ -1,4 +1,5 @@
 
+<img src="/banner.gif"/>
 
 
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
