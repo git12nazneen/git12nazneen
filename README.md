@@ -2,7 +2,6 @@
 <img src="/banner.gif"/>
 
 
-<h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
 <h3 align="center">A passionate frontend developer | React JS</h3>
 
 
@@ -57,6 +56,8 @@
 <hr>
 <br>
 <br>
+
+
 <h2 align="center" padding-top="50px" >👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
