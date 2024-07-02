@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Nazneen Sultana</h1>
 <h3 align="center">A passionate frontend developer | React JS</h3>
 
-- 🔭 I’m currently working  **Pii Marketers**
 
 - 🌱 I’m currently learning **Next js, redux, shadecn.**
 
