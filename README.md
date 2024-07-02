@@ -1,6 +1,5 @@
-<a href="https://www.shutterstock.com/shutterstock/photos/1695967435/display_1500/stock-vector-woman-stay-home-and-safe-working-late-until-night-and-light-above-the-table-in-the-working-room-1695967435.jpg" title="Woman Stay Home and Safe Working Late">
-  <img src="https://www.shutterstock.com/shutterstock/photos/1695967435/display_1500/stock-vector-woman-stay-home-and-safe-working-late-until-night-and-light-above-the-table-in-the-working-room-1695967435.jpg" alt="Header" width="900" height="400">
-</a>
+
+  <img src="https://www.canva.com/design/DAGJxs3GU7g/Yee6kF3awbipAHjFTY0kGg/edit?utm_content=DAGJxs3GU7g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Header">
 
 
 
