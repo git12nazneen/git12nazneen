@@ -2,10 +2,10 @@
 <img src="/banner.gif"/>
 
 
-<h3 align="center">A passionate frontend developer | React JS</h3>
+<h3 align="center">A passionate frontend developer | React JS | Next Js</h3>
 
 
-- 🌱 I’m currently learning **Next js, redux, shadecn.**
+- 🌱 I’m currently learning **Next js, redux, Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
