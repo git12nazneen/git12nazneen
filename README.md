@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer | React JS | Next Js</h3>
 
 
-- 🌱 I’m currently learning **Next js, redux, Typescript.**
+- 🌱 I’m currently learning **Next js, Redux, Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
