@@ -29,8 +29,8 @@
 <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img title="Next js" height="25" width="55"  src="/icon/nextjs.png"></code>
- <code><img title="Nuxt js" height="45" width="45" src="/icon/nuxt1.png"></code>
+  <code><img title="Next js" height="25" width="65"  src="/icon/nextjs.png"></code>
+ <code><img title="Nuxt js" height="25" width="45" src="/icon/nuxt1.png"></code>
  <code><img title="vue" height="25" src="/icon/vue.png"></code>
 <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
