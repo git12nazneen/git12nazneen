@@ -41,7 +41,7 @@
 <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
 <code><img title="ShadeCN" height="25" src="https://avatars.githubusercontent.com/u/70966233?s=200&v=4"></code>
- <code><img title="Next js" height="25" width="45"  src="/icon/nextjs.png"></code>
+ <code><img title="Next js" height="25" width="55"  src="/icon/nextjs.png"></code>
  <code><img title="Nuxt js" height="45" width="45" src="/icon/nuxtjs.png"></code>
  <code><img title="vue" height="25" src="/icon/vue.png"></code>
 </p>
