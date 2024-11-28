@@ -29,6 +29,9 @@
 <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Next js" height="25" width="55"  src="/icon/next1.png"></code>
+ <code><img title="Nuxt js" height="45" width="45" src="/icon/nuxtjs.png"></code>
+ <code><img title="vue" height="25" src="/icon/vue.png"></code>
 <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
 <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
@@ -41,9 +44,7 @@
 <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img title="npm" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></code>
 <code><img title="ShadeCN" height="25" src="https://avatars.githubusercontent.com/u/70966233?s=200&v=4"></code>
- <code><img title="Next js" height="25" width="55"  src="/icon/nextjs.png"></code>
- <code><img title="Nuxt js" height="45" width="45" src="/icon/nuxtjs.png"></code>
- <code><img title="vue" height="25" src="/icon/vue.png"></code>
+
 </p>
 <hr>
 
