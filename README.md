@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
-- 💬 Ask me about **Website build, Custom website, E-commerce website, React js website , Full stack website**
+- 💬 Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
 - 📫 How to reach me **lipinazneen85@gmail.com**
 
