@@ -87,7 +87,7 @@
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=git12nazneen&repo=textile-art-craft&theme=react&border_color=61dafb&border_radius=10">
 </a>
 
-<a align="right" href="https://github.com/git12nazneen/Real-estate" title="Real Estate">
+<a align="right" href="https://github.com/git12nazneen/FurnitureShop-client" title="E-commerce">
   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=git12nazneen&repo=Real-estate&theme=react&border_color=61dafb&border_radius=10">
 </a>
 
